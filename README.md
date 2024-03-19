@@ -7,7 +7,7 @@
 
 # **[Quest](https://gameboat.app/quest)**
 
-Notify your Discord community of free games with customization, filters and more. Never miss a free game again.
+Quest is an advanced tool to measure the quality of Steam Store and Epic Games Store titles.
 
 ## Usage
 Quest is currently private, but may be released for public use soon.
