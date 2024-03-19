@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://gameboat.app/quest"><img src="https://imgur.com/icP4qzA.png" width="450" alt="Quest Logo" /></a>
+		<a href="https://gameboat.app/quest"><img src="https://imgur.com/brakhBm.png" width="450" alt="Quest Logo" /></a>
 	</p>
 </div>
 
